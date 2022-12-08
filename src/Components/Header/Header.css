@@ -1,0 +1,25 @@
+.header {
+      background-color: rgba(28, 43, 53, 1);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      justify-content: space-between;
+      height: 70px;
+      padding-left: 112px;
+      padding-right: 30px;
+
+}
+
+.logo {}
+
+.link a {
+      color: rgba(255, 255, 255, 1);
+      text-decoration: none;
+      justify-content: center;
+      margin: 30px;
+
+}
+
+.link a:hover {
+      color: orange;
+}

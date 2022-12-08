@@ -1,0 +1,44 @@
+.product-container {
+      width: 300px;
+      height: 508px;
+      border: 2px solid rgba(149, 160, 167, 1);
+      border-radius: 8px;
+      position: relative;
+
+}
+
+.product-container img {
+      width: 286px;
+      height: 286px;
+}
+
+.title {
+      Font-family: 'Lato';
+      Font-style: 'Regular';
+      Font-size: 21px;
+      Line-height: 25px;
+      Line-height: 100%
+}
+
+.text-title p {
+      margin: 15px;
+      Font-family: 'Lato';
+      Font-style: 'Regular';
+      Font-size: 17px;
+      Line-height: 14px;
+      Line-height: 100%;
+      text-align: left;
+      Vertical-align: 'Top';
+      letter-spacing: 0.4%
+}
+
+.btn-card {
+      background-color: rgba(255, 224, 179, 1);
+      border-radius: 0px 0px 8px 8px;
+      border: none;
+      width: 100%;
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+
+}
